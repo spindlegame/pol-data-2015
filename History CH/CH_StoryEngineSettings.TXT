@@ -1,0 +1,95 @@
+STORY ENGINE SETTINGS:  "Switzerland as a Direct Democracy"
+
+CHARACTER DYNAMICS:
+MC RESOLVE:  Change
+MC GROWTH:   Start
+MC APPROACH:  Be-er
+MC PROBLEM-SOLVING STYLE:  Intuitive
+IC RESOLVE:  Steadfast
+
+PLOT DYNAMICS:
+DRIVER:  Decision
+LIMIT:  Optionlock
+OUTCOME:  Success
+JUDGMENT:  Good
+
+IMPACT CHARACTER
+(Constantin Siegwart-Müller)
+THROUGHLINE:  Situation
+CONCERN:  The Future
+ISSUE:  Delay vs. Choice
+PROBLEM:  Support
+SOLUTION:  Oppose
+SYMPTOM:  Avoidance
+RESPONSE:  Pursuit
+UNIQUE ABILITY:  Choice
+CRITICAL FLAW:  Hope
+BENCHMARK:  The Present
+SIGNPOST 1:  The Present
+SIGNPOST 2:  How Things are Changing
+SIGNPOST 3:  The Future
+SIGNPOST 4:  The Past
+
+MAIN VS. IMPACT STORY
+(How to harmonize material and spiritual goals)
+THROUGHLINE:  Manipulation
+CONCERN:  Changing One's Nature
+ISSUE:  Commitment vs. Responsibility
+PROBLEM:  Faith
+SOLUTION:  Disbelief
+SYMPTOM:  Avoidance
+RESPONSE:  Pursuit
+CATALYST:  Responsibility
+INHIBITOR:  Self Interest
+BENCHMARK:  Conceiving an Idea
+SIGNPOST 1:  Developing a Plan
+SIGNPOST 2:  Playing a Role
+SIGNPOST 3:  Changing One's Nature
+SIGNPOST 4:  Conceiving an Idea
+
+OVERALL STORY
+(Switzerland as a Direct Democracy)
+THROUGHLINE:  Activity
+CONCERN:  Obtaining
+ISSUE:  Self Interest vs. Morality
+PROBLEM:  Control
+SOLUTION:  Uncontrolled
+SYMPTOM:  Avoidance
+RESPONSE:  Pursuit
+CATALYST:  Morality
+INHIBITOR:  Commitment
+BENCHMARK:  Gathering Information
+SIGNPOST 1:  Doing
+SIGNPOST 2:  Obtaining
+SIGNPOST 3:  Gathering Information
+SIGNPOST 4:  Understanding
+
+MAIN CHARACTER
+(Katharina Morel-Kaufmann)
+THROUGHLINE:  Fixed Attitude
+CONCERN:  Innermost Desires
+ISSUE:  Hope vs. Dream
+PROBLEM:  Control
+SOLUTION:  Uncontrolled
+SYMPTOM:  Feeling
+RESPONSE:  Logic
+UNIQUE ABILITY:  Dream
+CRITICAL FLAW:  Delay
+BENCHMARK:  Contemplation
+SIGNPOST 1:  Memories
+SIGNPOST 2:  Impulsive Responses
+SIGNPOST 3:  Innermost Desires
+SIGNPOST 4:  Contemplation
+
+ADDITIONAL STORY POINTS
+
+GOAL:  Obtaining
+CONSEQUENCE:  Changing One's Nature
+COST:  The Future
+DIVIDEND:  Innermost Desires
+
+REQUIREMENT:  Gathering Information
+PREREQUISITE:  Conceiving an Idea
+PRECONDITION:  The Present
+FOREWARNINGS:  Contemplation
+

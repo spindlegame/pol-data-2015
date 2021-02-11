@@ -1,0 +1,95 @@
+STORY ENGINE SETTINGS:  "Searching for Utopia"
+
+CHARACTER DYNAMICS:
+MC RESOLVE:  Steadfast
+MC GROWTH:   Stop
+MC APPROACH:  Be-er
+MC PROBLEM-SOLVING STYLE:  Intuitive
+IC RESOLVE:  Change
+
+PLOT DYNAMICS:
+DRIVER:  Action
+LIMIT:  Timelock
+OUTCOME:  Success
+JUDGMENT:  Good
+
+IMPACT CHARACTER
+(Friedrich Hecker)
+THROUGHLINE:  Situation
+CONCERN:  How Things are Changing
+ISSUE:  Fact vs. Fantasy
+PROBLEM:  Process
+SOLUTION:  Result
+SYMPTOM:  Cause
+RESPONSE:  Effect
+UNIQUE ABILITY:  Fantasy
+CRITICAL FLAW:  Experience
+BENCHMARK:  The Future
+SIGNPOST 1:  How Things are Changing
+SIGNPOST 2:  The Future
+SIGNPOST 3:  The Present
+SIGNPOST 4:  The Past
+
+OVERALL STORY
+(The Overall Story)
+THROUGHLINE:  Manipulation
+CONCERN:  Playing a Role
+ISSUE:  Knowledge vs. Thought
+PROBLEM:  Process
+SOLUTION:  Result
+SYMPTOM:  Unproven
+RESPONSE:  Proven
+CATALYST:  Thought
+INHIBITOR:  Worry
+BENCHMARK:  Changing One's Nature
+SIGNPOST 1:  Developing a Plan
+SIGNPOST 2:  Playing a Role
+SIGNPOST 3:  Changing One's Nature
+SIGNPOST 4:  Conceiving an Idea
+
+MAIN VS. IMPACT STORY
+(The Main vs. Impact Story)
+THROUGHLINE:  Activity
+CONCERN:  Doing
+ISSUE:  Wisdom vs. Enlightenment
+PROBLEM:  Hunch
+SOLUTION:  Theory
+SYMPTOM:  Unproven
+RESPONSE:  Proven
+CATALYST:  Enlightenment
+INHIBITOR:  Threat
+BENCHMARK:  Obtaining
+SIGNPOST 1:  Doing
+SIGNPOST 2:  Obtaining
+SIGNPOST 3:  Gathering Information
+SIGNPOST 4:  Understanding
+
+MAIN CHARACTER
+(Emma Herwegh)
+THROUGHLINE:  Fixed Attitude
+CONCERN:  Impulsive Responses
+ISSUE:  Value vs. Worth
+PROBLEM:  Cause
+SOLUTION:  Effect
+SYMPTOM:  Unproven
+RESPONSE:  Proven
+UNIQUE ABILITY:  Worth
+CRITICAL FLAW:  Desire
+BENCHMARK:  Innermost Desires
+SIGNPOST 1:  Impulsive Responses
+SIGNPOST 2:  Innermost Desires
+SIGNPOST 3:  Memories
+SIGNPOST 4:  Contemplation
+
+ADDITIONAL STORY POINTS
+
+GOAL:  Playing a Role
+CONSEQUENCE:  Doing
+COST:  How Things are Changing
+DIVIDEND:  Impulsive Responses
+
+REQUIREMENT:  Changing One's Nature
+PREREQUISITE:  Obtaining
+PRECONDITION:  The Future
+FOREWARNINGS:  Innermost Desires
+

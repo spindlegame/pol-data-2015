@@ -1,0 +1,95 @@
+STORY ENGINE SETTINGS:  "I think I've done a lot in my life"
+
+CHARACTER DYNAMICS:
+MC RESOLVE:  Steadfast
+MC GROWTH:   Start
+MC APPROACH:  Do-er
+MC PROBLEM-SOLVING STYLE:  Logical
+IC RESOLVE:  Change
+
+PLOT DYNAMICS:
+DRIVER:  Decision
+LIMIT:  Optionlock
+OUTCOME:  Success
+JUDGMENT:  Good
+
+MAIN VS. IMPACT STORY
+(Growing in the face of death)
+THROUGHLINE:  Situation
+CONCERN:  The Future
+ISSUE:  Delay vs. Choice
+PROBLEM:  Conscience
+SOLUTION:  Temptation
+SYMPTOM:  Feeling
+RESPONSE:  Logic
+CATALYST:  Choice
+INHIBITOR:  Attitude
+BENCHMARK:  How Things are Changing
+SIGNPOST 1:  The Past
+SIGNPOST 2:  How Things are Changing
+SIGNPOST 3:  The Future
+SIGNPOST 4:  The Present
+
+IMPACT CHARACTER
+(Death)
+THROUGHLINE:  Manipulation
+CONCERN:  Changing One's Nature
+ISSUE:  Rationalization vs. Obligation
+PROBLEM:  Control
+SOLUTION:  Uncontrolled
+SYMPTOM:  Temptation
+RESPONSE:  Conscience
+UNIQUE ABILITY:  Responsibility
+CRITICAL FLAW:  Denial
+BENCHMARK:  Playing a Role
+SIGNPOST 1:  Developing a Plan
+SIGNPOST 2:  Changing One's Nature
+SIGNPOST 3:  Playing a Role
+SIGNPOST 4:  Conceiving an Idea
+
+MAIN CHARACTER
+(Katharina Morel)
+THROUGHLINE:  Activity
+CONCERN:  Obtaining
+ISSUE:  Approach vs. Attitude
+PROBLEM:  Consider
+SOLUTION:  Reconsider
+SYMPTOM:  Feeling
+RESPONSE:  Logic
+UNIQUE ABILITY:  Morality
+CRITICAL FLAW:  Preconception
+BENCHMARK:  Doing
+SIGNPOST 1:  Gathering Information
+SIGNPOST 2:  Understanding
+SIGNPOST 3:  Obtaining
+SIGNPOST 4:  Doing
+
+OVERALL STORY
+(Building sovereignty)
+THROUGHLINE:  Fixed Attitude
+CONCERN:  Innermost Desires
+ISSUE:  Hope vs. Dream
+PROBLEM:  Control
+SOLUTION:  Uncontrolled
+SYMPTOM:  Feeling
+RESPONSE:  Logic
+CATALYST:  Dream
+INHIBITOR:  Obligation
+BENCHMARK:  Impulsive Responses
+SIGNPOST 1:  Impulsive Responses
+SIGNPOST 2:  Innermost Desires
+SIGNPOST 3:  Contemplation
+SIGNPOST 4:  Memories
+
+ADDITIONAL STORY POINTS
+
+GOAL:  Innermost Desires
+CONSEQUENCE:  The Future
+COST:  Changing One's Nature
+DIVIDEND:  Obtaining
+
+REQUIREMENT:  Impulsive Responses
+PREREQUISITE:  How Things are Changing
+PRECONDITION:  Playing a Role
+FOREWARNINGS:  Doing
+

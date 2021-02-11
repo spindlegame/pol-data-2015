@@ -1,0 +1,38 @@
+Plot Sequence Report for "Your Story"
+
+This report shows how dramatic tension makes itself manifest in a series of discrepancies between plot and theme, act by act.
+
+Information about the relationship between plot and theme comes in two forms in Dramatica.  When you begin creating your Storyform, you are presented with a "perfect world" view of your story in which plot is completely aligned with theme.  There is no discrepancy between the two, and therefore no dramatic tension.  This balanced view is most easily seen in the Theme Browser, available through a tile on the Dramatica Desktop.
+
+Once you arrive at a Storyform, however, you have input information about how that "perfect world" is twisted and warped by problems and conflicting perspectives.  As a result, plot no longer matches theme, and the two are often quite out of step with one another.
+
+As your story unfolds, it is the discrepancy between plot and theme that clues the audience in on the nature of the problem at the heart of your story and tells them much about the ways in which such a screwed up situation might be resolved.
+
+Use this report as a guideline to the kinds of thematic considerations which should be addressed in your plot, act by act for each of the four throughlines.  By developing this series of plot/theme discrepancies, the progress of your story will reflect the dramatic tension of the effort to unwind all the tentacles of the central problem.
+
+
+THE OVERALL STORYLINE
+
+The Overall Storyline deals with the kinds of activities the Overall characters will be engaged in, act by act.  In "Your Story," act one deals primarily with The Future, act two with How Things are Changing, act three with The Present and act four concentrates on The Past.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "what will happen or what will be" (The Future) is explored in terms of Enlightenment, Wisdom, Skill, and Experience.  Act two concentrates on "the way things are going" (How Things are Changing) and is explored in terms of Strategy, Analysis, Preconditions, and Prerequisites.  Act three focuses on "the current situation and circumstances" (The Present) and is explored in terms of Approach, Self Interest, Morality, and Attitude.  And act four illustrates "what has already happened" (The Past) and is explored in terms of Instinct, Senses, Interpretation, and Conditioning.
+
+
+_________________________
+
+THE MAIN VS. IMPACT STORYLINE
+
+The Main vs. Impact Storyline deals with the interactions that occur between the main and impact characters, act by act.  In "Your Story," act one deals primarily with Innermost Desires, act two with Contemplation, act three with Memories and act four concentrates on Impulsive Responses.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "basic drives and desires" (Innermost Desires) is explored in terms of Fact, Fantasy, Security, and Threat.  Act two concentrates on "present considerations" (Contemplation) and is explored in terms of Work, Attraction, Repulsion, and Attempt.  Act three focuses on "recollections" (Memories) and is explored in terms of Openness, Delay, Choice, and Preconception.  And act four illustrates "innate responses" (Impulsive Responses) and is explored in terms of Fate, Prediction, Interdiction, and Destiny.
+
+
+_________________________
+
+THE MAIN CHARACTER THROUGHLINE
+
+The Main Character Storyline deals with the areas that most concern the main character, act by act.  In "Your Story," act one deals primarily with Doing, act two with Gathering Information, act three with Obtaining and act four concentrates on Understanding.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "engaging in a physical activity" (Doing) is explored in terms of Truth, Evidence, Suspicion, and Falsehood.  Act two concentrates on "gathering information or experience" (Gathering Information) and is explored in terms of Value, Confidence, Worry, and Worth.  Act three focuses on "achieving or possessing something" (Obtaining) and is explored in terms of Closure, Hope, Dream, and Denial.  And act four illustrates "appreciating the meaning of something" (Understanding) and is explored in terms of Investigation, Appraisal, Reappraisal, and Doubt.
+
+
+_________________________
+
+THE IMPACT CHARACTER THROUGHLINE
+
+The Overall Character Storyline deals with the areas most affected by the impact character, act by act.  In "Your Story," act one deals primarily with Developing a Plan, act two with Playing a Role, act three with Changing One's Nature and act four concentrates on Conceiving an Idea.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "visualizing how an existing idea might be implemented" (Developing a Plan) is explored in terms of State of Being, Situation, Circumstances, and Sense of Self.  Act two concentrates on "temporarily adopting a lifestyle" (Playing a Role) and is explored in terms of Knowledge, Ability, Desire, and Thought.  Act three focuses on "transforming one's nature" (Changing One's Nature) and is explored in terms of Rationalization, Commitment, Responsibility, and Obligation.  And act four illustrates "coming up with an idea" (Conceiving an Idea) and is explored in terms of Permission, Need, Expediency, and Deficiency.
+

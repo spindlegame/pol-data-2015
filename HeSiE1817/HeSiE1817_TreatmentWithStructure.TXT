@@ -1,0 +1,622 @@
+Treatment with Structure Report for "Searching for Utopia"
+
+Chapter #1 - Vorrede
+
+...seine Stimme für die Freiheit zu erheben...
+
+Diese Eigenschaft dünk mich, ist weder eine ausschließlich männliche noch weibliche – sie gehört beiden Geschlechtern an, so weit sie sich eben mit Beihaltung der [IV] ihnen eigenthümlichen Auffassungsweise zu Menschen emanzipirt haben.
+
+...
+Ich mache diese lange Vorrede zu einer vielleicht recht kurzen, recht unbedeutenden Arbeit, um mich von vornherein gegen den Verdacht zu wahren, die Zahl der schriftstellerischen Frauen (mit dem technischen Ausdruck bas bleus genannt) irgendwie, selbst auch nur vorübergehend vermehren zu wollen. – 
+
+Referenced Story Points:
+Overall:  Throughline -- Manipulation
+denn wir wollen nicht einmal die Freiheit, wenn es möglich wäre, durch Euch, wir wollen sie durch uns, wir wollen sie durch Alle, wie für Alle.
+
+Chapter #2 - French Revolution of 1848
+
+[5] Drei Tage hatten den Kinder von Paris genügt, die alte morsche Welt mit all ihren Vorurtheilen, ihren Privilegien zu begraben und das Banner einer neuen jubelnd aufzufangen. 
+Ich sage, den Kindern von Paris, denn sie waren es, recht eigentlich, welche ohne Führer, selbst von den Deputirten der Opposition verlassen, am 24. Februar als Sieger in die Tuilerieen einzogen und dem Königthum durch den einstimmigen Ruf: Vive la république! aber eine solche, wie sie groß und keusch aus den Händen des armen Volkes hervorgegangen, und von ihm weder als das ausschließliche Eigenthum seiner noch irgend einer andern Nation, sondern als das beglückende Band aller Völker gedacht und geschaffen war. 
+Darum allein hatte diese Revolution auch eine Bedeutung, darum die ungetheilten Sympathieen aller guten, freien Menschen.
+Polen, Italiener, kurz die verschiedenen fremden Nationen, die hier in Paris zahlreich repräsentirt waren, schickten als Ausdruck ihrer Freunde und Bewunderung Adressen und Deputationen an das französische Volk, das auch jetzt wieder so glorreich die Initiative für Alle ergriffen hatte – nur die Deutschen, die gewöhnlich hintennachziehen und zum Fest kommen, wenn alle Andern längst abgespeist und ihnen Nichts als die beaux restes übrig gelassen – hatte es noch nicht zu einem gemeinsamen Gruß bringen können.
+
+Referenced Story Points:
+Overall:  Solution -- Result
+
+Chapter #3 - Adresse an das französische Volk
+
+Café de Mulhouse
+Um die deutsche Nation bei den Franzosen würdig zu vertreten, bedurfte es eines unbefleckten Namens, einer Stimme, die dem deutschen Volk lieb und bekannt war – deshalb fiel die einstimmige Wahl auf Herwegh.
+
+Referenced Story Points:
+Georg Herwegh:  Role
+
+Chapter #4 - Weltkampf
+
+Die beiden Elemente jedoch, die sich in dieser Adresse feinlich gegenüber standen, es sind dieselben, um die sich heute der Weltkampf bereits entsponnen, und der Sieg des Einen oder Andern wird entscheiden, ob wir wirklich einer neuen Zeit, einer freien Zukunft entgegen gehen, oder schrecklicher denn je dem scheußlichen Absolutismus in die Hände fallen.
+
+Referenced Story Points:
+Overall:  Problem -- Process
+
+Chapter #5 - Verleumdung
+
+hieß: Verleumdung, und wurde von unserm Kranken nach eigenem Gutachten folgendermaßen gebraucht:
+Er sandte davon unverdrossen während mehrerer Wochen ein Blatt nach dem andern ad die kaum frei gewordene deutsche Presse und wickelte dies Geschenk in eine große Anzahl langweiliger und unwahrer Artikel ein, deren Hauptzweck darin bestand, den Anfangs ganz friedlichen Charakter der hiesigen deutsche, demokratischen Gesellschaft als eine für Deutschland gefahrbringende hinzustellen und dadurch das Wirken des Vereins von vornherein unpopulär zu machen, was ihm denn auch zum Theil glückte.
+
+Referenced Story Points:
+Main Character:  Symptom -- Unproven
+
+Chapter #6 - Democratic movement March 6, 1848
+
+Zwei Tage nach der Versammlung im salle Valentino fanden sich um die Mittagsstunde gegen 6,000 Deutsche auf dem place du Carrousel ein.
+An der Spitze die französische und deutsche Fahne, brüderlich verbunden, begab sich der Zug bis vor das Hôtel de Ville, wo Herwegh, begleitet von etwa dreißigen seiner Landsleute, die Adresse überreichte, die mit warmem Enthusiasmus von den einzelnen Mitgliedern des provisorischen Gouvernements angenommen, und von einem derselben, Herrn Crémieur, erwiedert wurde.
+Der Moniteur vom 9. März giebt darüber folgende Details:
+
+Referenced Story Points:
+Overall:  Synopsis
+
+Chapter #7 - News from "home"
+
+[13] Diese zwei großen Versammlungen hatten jedoch den Wunsch nach wiederholten Zusammenkünften in jedem Einzelnen angeregt, den die äußere politischen Verhältnisse und die täglichen Nachrichten aus der Heimath, bald zu einem wirklichen Bedürfniß steigern mußten.
+
+Referenced Story Points:
+Overall:  Signpost 1 -- Developing a Plan
+
+Chapter #8 - Democratic movements in Vienna, Berlin and Baden
+
+kam die Nachricht von Wien, schnell darauf die von Berlin, und Brief auf Brief aus Baden, die von den dortigen Unruhen Bericht erstatteten.
+
+...
+„Jetzt, wo sich unsere Brüder draußen schlagen, sollen wir hier Reden halten?- “ daraus wird Nichts.
+
+Referenced Story Points:
+Overall:  Issue -- Knowledge
+
+Chapter #9 - the German democratic Legion (1st convoy)
+
+denn wir wollen nicht einmal die Freiheit, wenn es möglich wäre, durch Euch, wir wollen sie durch uns, wir wollen sie durch Alle, wie für Alle.
+
+Niemand hat ein Mandat vom deutschen Volk bekommen, und Niemand wird uns verwehren, selbst an Ort und Stelle unser Wort aus unserm Munde anzubringen.
+Wir werden kommen, denn es ist unser Pflicht zu kommen.
+Wir erkennen keine andere Macht auf Erden als das Volk selbst und den Willen des ganzen Volks;
+wir werden uns weder durch die Reaktionairen, noch durch die liberalen [18] Leithämmel zurückhalten lassen, welche um sich das Heft nicht aus den Händen winden zu lassen, aus Constitutionellen über Nacht Republikaner geworden. – 
+Wir glauben, daß über ohne vorhergegangenen Volkssturm die neue Zeit für Deutschland nicht herauf geführt werden wird, und wir halten uns, wenn auch für ein kleines, doch für kein ganz unnützes Element in solchem Volkssturm, denn wir bringen die Erfahrung einer Revolution und tapfere Kämpfer von den Pariser Barrikaden mit uns.
+
+Referenced Story Points:
+Character and Plot Dynamics:  Driver -- Action
+Eben ist auf der Kehler Brücke ein Mann arretirt worden, der mir im Augenblick, wo er mich sah und man ihn fortschleppte, noch mit lauter Stimme zurief:
+Sagt Herwegh, daß er schnell mit den Deutschen kommen soll, Hecker steht bereits vor Freiburg und erwartet ihn.“
+Sie sehen, meine Herren, wir haben keine Zeit zu verlieren.
+
+Chapter #10 - the German democratic Legion (2nd convoy)
+
+Referenced Story Points:
+Character and Plot Dynamics:  Driver -- Action
+Eben ist auf der Kehler Brücke ein Mann arretirt worden, der mir im Augenblick, wo er mich sah und man ihn fortschleppte, noch mit lauter Stimme zurief:
+Sagt Herwegh, daß er schnell mit den Deutschen kommen soll, Hecker steht bereits vor Freiburg und erwartet ihn.“
+Sie sehen, meine Herren, wir haben keine Zeit zu verlieren.
+
+Chapter #11 - March to Strassbourg
+
+Nachdem Alles gehörig eingeleitet, und die Marschrouten auch für die später Nachkommenden besorgt waren, reist Herwegh [19] dem die politische Leitung der Expedition oblag, ebenfalls nach Straßburg ab. 
+
+Ich begleitet ihn. – 
+Gleich nach seiner Ankunft erließ er folgende Proklamation, welche Jeden über die wahren Intentionen der Legion vollkommen unterrichten konnte und sollte:
+Die pariser dentsche [deutsche] demokratiche Legion.
+An unsere deutschen Mitkämpfer aus Frankreich und der Schweiz und an das deutsche Volk.
+Die Pariser deutsche demokratische Legion ist an den Ufern des Rheins angekommen; sie hat hier deutsche Freiheits-Legionen aus andern Städten Frankreichs und der Schweiz gefunden, alle gekommen um für die Freiheit des deutschen Volkes zu fechten.
+Ehe wir vereint zur ersten entscheidenden That schreiten, sei ein offenes Wort an unsere Freunde und Mitkämpfer und an das ganze deutsche Volk gesprochen.
+Wir sind keine Freischaaren!
+
+Referenced Story Points:
+Overall:  Concern -- Playing a Role
+
+Chapter #12 - Flagging of the movement and arrest warrant
+
+Denn Wem konnte es nur in den Sinn kommen, daß nach dem Sturm in Wien so bald eine Windstille eintreten würde? -----
+Nach all diesen traurigen Veränderungen, die ein augenblickliches Einschreiten in Deutschland unmöglich zu machen schien, denn auch in Baden war nach der Bewegung eine Erschlaffung eingetreten – 
+wollte Herweg auf etliche Tage nach Frankfurt reisen, um dort das Terrain zu recognosciren und danach den politischen Plan für die Legion zu entwerfen (der strategische war einzig Sache der Herrn Militairs, und ich kann es nicht genug wiederholen, daß Herwegh mit den militairischen Anordnungen gar nichts zu thun hatte - ),
+als ihm auch dieser Weg des unmittelbaren Wirkens abgeschnitten wurde und zwar durch den Befehl der badischen Regierung, ihn, falls er ihr Gebiet betreten sollte, unverzüglich zu arretiren.
+
+Referenced Story Points:
+Character and Plot Dynamics:  Growth -- Stop
+
+Chapter #13 - Emma's pilgrimage to Hecker 
+
+April 14, 1848
+
+Referenced Story Points:
+Main vs. Impact:  Throughline -- Activity
+Ehe dies Antwort nicht geworden, kehre ich nicht heim.
+
+Chapter #14 - The proclamation of the Republic in Constanz
+
+Referenced Story Points:
+Main vs. Impact:  Concern -- Doing
+W. hat weder Ihren Befehl, noch seinem Versprechen wegen der Depeschen Folge geleistet, unsere Mannschaft ist der ewigen Vertröstungen von einem Tage zum andern müde, und nicht mehr zu halten, und die materiellen Mittel sind erschöpft.
+Es bleiben uns jetzt nur drei Wege, entweder zu verhungern, auseinanderzugehen, oder uns Ihnen in kürzester Frist anzuschließen.
+Darum bitte ich um eine entschiedene Antwort.
+So sagen Sie Herweg, rufen könne ich ihn nicht, aber wenn er kommen wolle, und recht bald und in recht großer Anzahl, soll mir’s lieb sein.
+
+Chapter #15 - Encounter with Hecker
+
+Referenced Story Points:
+Main vs. Impact:  Issue -- Wisdom
+
+Main vs. Impact:  Problem -- Hunch
+
+Chapter #16 - Meeting with Becker
+
+Referenced Story Points:
+Main vs. Impact:  Issue -- Wisdom
+
+Chapter #17 - Return and various diplomatic encounters
+
+... Bei einigem Scharfsinn, hätten sie sich vorhersagen müssen, daß in einer Legion von Demokraten, die sich nicht diesem oder jenem Chef, sondern ihrer eigenen Gesinnung zu Lieb, den Beschwerden eines so langen Marsches und einer ganz unbestimmten Zukunft unterzogen hatte, es auch keine Macht giebt, ein Bekehrungswerk durchzusetzten, als die freiwillige Zustimmung jedes Einzelnen, undauf die am Wenigsten jetzt zu rechnen war, wo die nächsten Tage endlich zu verwirklichen versprachen, war ihr einziges Ziel vom Entstehen der Expedition gewesen:
+...
+
+Referenced Story Points:
+Otto von Bismarck:  Activities
+
+Chapter #18 - Planification of the march
+
+Wo Hecker sich aufhielt, wußte Niemand, geschweige das Schicksal der Insurgenten. – 
+...
+Herwegh, der die Ursache dieser Unzufriedenheit wohl erkannte, und trotz des ewigen Treibens von allen Seiten, sich nicht hatte irre machen lasse, und keine Sekunde den klaren [28] Blick über unsere Lage und das wahre Ziel unseres Wirkens aus den Augen verloren hatte, trat unter sie.
+...
+
+daß es auf ein bloßes Sichschlagen nicht nur nicht ankomme, sondern daß er dagegen im Namen der Freiheit laut protestire, 
+
+Referenced Story Points:
+Impact Character:  Approach
+
+Chapter #19 - Calling for Herwegh
+
+Sagt Herwegh, daß er schnell mit den Deutschen kommen soll, Hecker steht bereits vor Freiburg und erwartet ihn.“
+...
+
+Wir sind Ihrer Meinung, daß man das Schicksal so Vieler nicht leichtsinnig auf’s Spiel setzen darf.
+Wir müssen erst genau wissen, wie es steht, zumal jetzt, wo es von falschen Gerüchten wimmel.
+...
+
+Referenced Story Points:
+Impact Character:  Throughline -- Situation
+so sehr mir Hecker gefiel, so wenig behagte mir sein Bescheid, und ich ließ deshalb meinen Unmut an dem ersten aus, der mir den Weg trat. Es war M. [33]
+Wollt Ihr wirklich Nichts als eine badische Republik, sagt ich ihm, so mögt Ihr uns getrost ausschließen, denn welcher Mensch kann sich heutiges Tags dafür interessiren.
+Wollt Ihr aber die Republick für ganz Deutschland, wo möglich für ganz Europa, und betrachtet wir dies stets von Hecker vorausgesetzt die badische nur als einen Anfang derselben, mit welchem Recht zögert Ihr da, die Mitwirkung Eurer Brüder und darunter Eurer besten Brüder laut zu begehren?
+Bedenkt wohl, daß die Männer uns’rer Legion nur um mit Euch zu kämpfen die weite Reise unternommen, und daß sie auf den Barrikaden von Paris mitgefochten;
+
+Chapter #20 - Emma Herwegh as spy
+
+Freiburg und die ganz Umgegend bis in’s Höllenthal sollem mit Truppen besetzt sein. – 
+Mich, meine Herren, wenn’s dem Präsidenten Recht ist, und Sie mir die Botschaft anvertrauen wollen.
+Von Ihnen kommt keiner durch, Sie würden festgehalten und dürfen jetzt Ihre Posten weniger als je verlassen.
+Mich, lässt man überall pasiren. 
+Alle waren’s wohl zufrieden, und so saß ich eine halbe Stunde später in der Eisenbahn.
+
+Referenced Story Points:
+Main Character:  Problem -- Cause
+Freiburg und die ganz Umgegend bis in’s Höllenthal sollem mit Truppen besetzt sein. – 
+Mich, meine Herren, wenn’s dem Präsidenten Recht ist, und Sie mir die Botschaft anvertrauen wollen.
+Von Ihnen kommt keiner durch, Sie würden festgehalten und dürfen jetzt Ihre Posten weniger als je verlassen.
+Mich, lässt man überall pasiren. 
+Alle waren’s wohl zufrieden, und so saß ich eine halbe Stunde später in der Eisenbahn.
+
+Chapter #21 - Searching for support
+
+Aber wo werd‘ ich ihn in Freiburg am Schnellsten erfragen?
+Ein der Turnerkneipe, und wenn’s Ihnen Recht ist, gehe ich gleich von der Eisenbahn aus dorthin und bringe Ihnen dann den Bescheid in Ihren Gasthof.
+Wor werden Sie absteigen, Madame?
+Wenn’s gut geht, nirgend. Ich möchte gleich weiter, drum ist’s das Beste, mein Herr, ich begleite Sie.
+Solcher Aufträge muss man sich ohnehin selbst erledigen.
+Wie Sie wünschen.
+
+Referenced Story Points:
+Main Character:  Issue -- Value
+
+Chapter #22 - Turner movement (Turner- und Arbeiterbataillone)
+
+Als ich das ganze jugendliche Heer in voller Kriegsübung beisammen sah, wurde ich seelenfroh und dachte bei mir: 
+mit denen und mit den Unsern läßt sich die Welt erobern. [30]
+Ihr Anführer, ein Amerikaner, H. v. L. kam mir entgegen, um zu wissen was ich begehre.
+
+Referenced Story Points:
+Main Character:  Unique Ability -- Worth
+
+Main Character:  Critical Flaw -- Desire
+
+Chapter #23 - Arrest of her friend in Freiburg
+
+Als man mir sagte, daß ich in Freiburg übernachten müsse, konnte ich dem Verlangen nicht wiederstehen, eine Freundin aufzusuchen, die dort wohnt, mir sehr, sehr lieb ist, und ich seit Jahren nicht gesehen hatte.
+Unter Begleitung eines Turners, erreichte ich endlich, nach vielem Suchen, ihr Haus. Mein Besuch war so kurz, so überraschend für sie, daß wir vor lauter Stoff zum Reden kaum den Mund aufthaten und uns wenig mehr sagten, als Guten Tag, und leb‘ wohl!
+Dem Polizeispion, der mir, wie ich nachträglich erfuhr, auf Schritt und Tritt bis vor die Stubenthür gefolgt war, gefiel unser Schweigen nicht – eiligst macht er seinen Bericht und 24 Stunden später erhält meine Freundin auch schon eine Vorladung.
+Sie ahnt nicht weshalb, stellst sich jedoch ein, wird 12 volle Stunden [31] in Arrest gehalten – 
+und auf welchen Grund hin?
+weil sie mich während 10 Minuten in ihrem Hause aufgenommen hat, und folglich auch mit den Rebellen im Einverständniß steht. – 
+Wie es ihr gelungen, sich genügend zu legitimiren, weiß ich nicht.
+
+Referenced Story Points:
+Main Character:  Concern -- Impulsive Responses
+...
+Wollt Ihr wirklich Nichts als eine badische Republik, sagt ich ihm, so mögt Ihr uns getrost ausschließen, denn welcher Mensch kann sich heutiges Tags dafür interessiren.
+Wollt Ihr aber die Republick für ganz Deutschland, wo möglich für ganz Europa, und betrachtet wir dies stets von Hecker vorausgesetzt die badische nur als einen Anfang derselben, mit welchem Recht zögert Ihr da, die Mitwirkung Eurer Brüder und darunter Eurer besten Brüder laut zu begehren?
+Bedenkt wohl, daß die Männer uns’rer Legion nur um mit Euch zu kämpfen die weite Reise unternommen, und daß sie auf den Barrikaden von Paris mitgefochten;
+...
+
+Chapter #24 - In search for Hecker (Emma the eternal seaker...)
+
+Nach Mühlheim Frau Herwegh, dort werden wir ihn zwar nicht finden, aber vermutlich in der Umgegegend. Wir müssen ihn aber suchen.
+
+Referenced Story Points:
+Main vs. Impact:  Benchmark -- Obtaining
+
+Chapter #25 - Gefecht bei Kandern von Gagern's Tod
+
+Dies war die Nacht vor dem Gefecht, in dem Gagern fiel.
+...
+Als mich Hecker aussteigen sah, rief er aus:
+Sie sind’s [32] Frau Herwegh? Na Sie kommen grad recht, wir sitzen in der Mausfalle.
+Wie das?
+Von allen Seiten zieht sich das Militair zusammen, das wird einen heißen Kampf geben.
+Aber das ganze Wiesenthal ist ja noch frei, sagte ich, und dann können Sie sich ja auch noch bis auf weitere Verstärkung auf die Höhen zurückziehen.
+Das kann uns nichts helfen, wir müssen vorwärts! 
+und mit diesen Worten führte er mich die Treppe hinauf bis in’s Gastzimmer.
+Da sah’s aber köstlich aus, grad wie in Wallensteins Lager.
+...
+
+Referenced Story Points:
+Overall:  Inhibitor -- Worry
+
+Chapter #26 - Encounter with Hecker
+
+M. der Einer von denen, die der Humor nie verläßt am wenigsten, wenn alle andere die Köpfe hängen oder ernsthafte Gesichter schneiden, und den der Eifer des weiblichen Emissairs mehr, als es mich damals amüsirte, zu ergötzen schien, lachte auch jetzt stat aller Antwort wol einige Minuten lang harmlos fort. - 
+...
+Sie müssen Hecker nicht falsch verstehen, Frau Herwegh, er wünscht Nichts mehr, als daß sie Alle so schnell als möglich kommen, aber er ist in einer fatalen Lage, 
+bis jetzt hofft er noch das badische Militair für sich zu gewinnen, gelingt ihm das, dann ist in Baden Alles erreicht, und das übrige Süddeutschland folgt nach.
+Sie wissen, wie unpopulär Ihre Sache, Dank der vielen lügenhaften Zeitungsberichte, hier geworden, daß die deutschen Arbeiter aus Paris überall als fremde Eindringlinge betrachtet werden.
+So insam, so abgeschmackt, und ein einziger öffentlicher Aufruf an Sie, würde jetzt, wo die Soldaten noch nicht auf unserer Seite sind, genügen, unser ganzes Unternehmen scheitern zu machen.
+Dies erklärt das Zögern, rechtfertigt es aber nicht Herr M., 
+...
+Die deutsche Legion soll sich marschfertig machen, um bis Samstag früh 10 Uhr in Bansenheim eintreffen zu [34] können, das noch auf französischem Gebiet liegt.
+...
+Ist das fest beschlossen, meine Herren?
+Ja, Frau Herwegh.
+Nun, so können Sie auf uns zählen, wir werden pünktlich sein. – 
+
+Referenced Story Points:
+Main vs. Impact:  Solution -- Theory
+
+Chapter #27 - Hessische Dragoner
+
+Statt dessen sollte dies Sturmsignal nur die Ankunft zweier einfältiger hessischer Dragoner melden, die sich hineingeschlichen hatten, um zu recognisciren, und die man ohne viel Lärm einfach hätte arretiren sollen.
+
+Referenced Story Points:
+Overall:  Symptom -- Unproven
+
+Chapter #28 - Return to Strasbourg with Mr. M.
+
+Als ich mich um 7 Uhr von meinen lieben, ritterlichen Gefährten in Freiburg trennte, fand ich einen der Unsern, mich nach Straßburg zu belgeiten. 
+
+Referenced Story Points:
+Main Character:  Solution -- Effect
+
+Chapter #29 - Waiting for Hecker's despache
+
+Herweghs erste Frage in Bansenheim war nach den Depesche, aber keine war eingegangen.
+Schlechtes Omen!
+so verging der ganze Tag in bergeblichem Warten.
+
+Referenced Story Points:
+Main vs. Impact:  Inhibitor -- Threat
+
+Chapter #30 - General march
+
+Vive la Republiqué [sic] ! war der erste Gruß, den wir wie Einer [37]Stimme Einem Herzen entquellend, als Boten voraus schickten, aber Niemand erwiederte ihn.
+
+...
+
+Die Bauern, denen zuerst wol nicht recht geheuer sein mochte, waren ganz erstaunt, als sie statt der ihnen angekündigten Räuberbande eine singende fröhliche Schaar ankommen sahen, die nichts begehrten als freien Durchzug.
+
+...
+Damals wäre es für Herwegh ein Leichtes gewesen, die Republik auf dem ganzen Wege zu proklamiren, die bestehenden Behörden ab- und neu einzusetzen.
+...
+Die Bauern hätten schon aus Furcht Alles angenommen, 
+er wollte jedoch bis zur Vereinigung mit den Andern absichtlich den Gebrauch jedes revolutionairen Mittels vermeiden, 
+um ihnen durch die That zu beweisen, daß seine Sache keine Parteisache, und daß er nie etwas Anderes im Sinne gehabt als: mit dem Volk, für das Volk zu kämpfen und jedes Separatwesen seinem Begriff von Freiheit entgegen war.
+...
+Von Begeisterung für die Republik, war übrigens damals bei den Bauern keine Rede.
+...
+Sie hätten sie angenommen, wenn man sie ihnen in’s Haus gebracht, und gern, so bald sie dabei ihren Vorteil, eine Erleichterung der Abgaben gefunden hätten.
+Etwas dafür zu wagen – fiel ihnen selbst im Traume nicht ein.
+Ehe sich der Bauer entschließt, seinen Acker und sein Vieh zu verlassen, muß es ihm, um mit Hecker zu reden, „an die Speckseite“ gehen.- 
+
+Referenced Story Points:
+Overall:  Issue -- Knowledge
+
+Chapter #31 - Arrival at Kandern 
+
+Hecker, so lautet die Aussage der Kanderer, hatte sich, nachdem sein Corps zerstoben, in die Schweiz geflüchtet.
+
+Referenced Story Points:
+Impact Character:  Problem-Solving Style
+
+Chapter #32 - Getaway towards Switzerland  
+
+Beim Anblick dieser kriegerischen Zurüstungen ergriffen sämmtliche Bauerfrauen mit ihrem verschiedentlichen Hausrat und Linnen die Flucht auf’s [39] Gebirge, vermutlich aus Furcht, das ihnen lang verheißene „Sengen und Brennen der Räuberbande“ werde jetzt anfangen.
+...
+Wenn die Sachen so stehen, sagte Herwegh, bleibt auch uns mit unserer kleinen schlechtbewaffneten Armee nichts übrig, als an einem möglichst schnellen und ehrenvollen Rückzug in die Schweiz zu denken, um uns dort auf neutralem Gebiet mit den Trümmern der andern Corps zu vereinen, und in einem günstigern Moment die Grenze gemeinsam zu überschreiten.
+
+Referenced Story Points:
+Georg Herwegh:  Activities
+
+Chapter #33 - Arrival at Zell
+
+Kaum sahen uns die Bürge von Zell, die von der nahen Anwesenheit und den feindlichen Intentionen der Soldaten sehr wohl unterrichtet waren einrücken, als sich in der Hauptstraße Thür und Läden eilig schlossen, und nicht lange, so trat auch der Bürgermeister zu Herwegh heran und beschwor ihn mit Thränen in den Augen, seine Stadt zu verschonen.
+
+...
+Wenn der Einzelne à tout prix sterben will, so ist das eine Privatliebhaberei wie eine and’re, und er mag über seine Person nach Belieben verfügen, aber mit dem Leben vieler hundert Menschen auf dieselbe Art verfahren wollen, hieße einen offenbaren Mord begehen, den ich nicht nur nicht auf mich nehmen, sondern gegen den ich mit aller Energie protestiren werde, obschon es mir eben so schwer wird, wie irgend Einem, in die traurige Nothwengikeit versetzt zu sein, die Unsern um die Ruhe zu bringen, deren sie und wir Alle so sehr bedürftig sind.
+...
+Ich gehe gern zu Fuß mit, denn Einmal auf schweizer Boden werden wir uns so lange ausruhen, und so Viel essen, als ein jeder Luft hat. 
+Da war aber auch kein Einziger, der mir nicht geantwortet hätte:
+Wir gehen und gleich, wenn’s sein muß.
+So viel ich gehört, sagt‘ ich efreut, hat’s damit noch ein paar Stunden Zeit.
+Sorgen Sie Alle, daß Sie wenigstens unterdessen etwas Fleisch bekommen, was den einzelnen Bataillons-Chefs auch noch besonders von mir und dem Arzt anempfohlen wurde, und so kehrte ich zum Comité zurück.
+Sie wollen Alle gehen, rief ich den Herren zu, ich hab‘ sie gefragt, und Keiner will zurück bleiben.
+Desto besser Frau Herwegh, die Sache ist übrigens schon erledigt, und um Mitternacht wird abmarschirt; aber der Einzige, der zu meiner Nachricht ungläubig den Kopf schüttelte, war Herr v. L. 
+Er schien diese allgemeine Zustimmung lediglich für einen Akt der Galanterie zu halten, oder für einen tour de force um nicht in den Verdacht zu kommen, einer Frau an Mut nachzustehen.
+Möglich, daß dies bei einigen der Hebel war, aber war das ein Unglück, wenn man sie auf diese Art retten kontte?
+
+Referenced Story Points:
+Character and Plot Dynamics:  Essence -- Negative Feel
+
+Chapter #34 - Crossing the Rhine
+
+Sternenloser hatt‘ ich den Himmel nie [44] gesehen, er hing wie eine schwarze dichte Masse finster über uns, die dem kleinsten Lichtstrahl den Durchblick wehrte.
+
+...
+Um 10 Uhr Morgens, wie ich bereits bemerkt, - erreichten wir Niederdossenbach.
+Hier lauerte ein neuer Verrat auf uns, und diesmal in Speck und Schinken, den die Bauern mit überraschender Zuvorkommenheit uns noch eh‘ wir ihn verlangt, in großen Körben entgegetrugen.
+Herwegh ante das Unheil, und beschwor die Mannschaft, den Hunger nur noch auf Augenblicke zu überwingen.
+Mit Speck fängt man Mäuse, rief er hinauf. Man stellt uns eine Falle!
+aber da war alles Reden umsonst.
+...
+Obwohl sich nirgend ein Soldat hatte blicken lassen, und wir der Grenze so nah‘ waren, hatten doch Alle das bestimmte Gefühl, wie vor einem Kampf.
+Deshalb gab auch Corvin den Befehl, den Wagen auf dem ich saß, (denn wir hatten zwei acquirirt) voran fahren, und nicht wie bisher, zwischen dem gros und der arrière-Garde folgen zu lassen.
+„Der Feind kann uns nur im Rücken angreifen, darum fahrt schnell vorwärts.“
+Diesem richtigen Instink allein dankt‘ ich’s, daß ich nicht wenige Minuten später in die Hände der Soldaten fiel, denn der and’re Bagagenwagen welcher zurückgeblieben, war das Erste was sie erbeuteten.
+ 
+
+Referenced Story Points:
+Character and Plot Dynamics:  Problem-Solving Style -- Intuitive
+Ich gehe gern zu Fuß mit, denn Einmal auf schweizer Boden werden wir uns so lange ausruhen, und so Viel essen, als ein jeder Luft hat. 
+Da war aber auch kein Einziger, der mir nicht geantwortet hätte:
+Wir gehen und gleich, wenn’s sein muß.
+...
+Diesem richtigen Instink allein dankt‘ ich’s, daß ich nicht wenige Minuten später in die Hände der Soldaten fiel, denn der and’re Bagagenwagen welcher zurückgeblieben, war das Erste was sie erbeuteten.
+
+Chapter #35 - Coursing
+
+Dieser Ausdruck wahrer, ungeheuchelter Sympathie für Herwegh, hatte mich in diesem Moment wirklicher Gefahr um so freudiger überrascht, um so tiefer ergriffen, weil er eben ein ganz spontaner war, frei wie derjenige, dem er galt.
+Herwegh hatte bei Allem was er gethan, nie einen persönlichen Zweck, nie etwas Anderes, als das eine, große Ziel, die Freiheit Aller vor Augen gehabt, und diesem sich zu nähern, sorglos seinen Weg verfolgt, unbekümmert um das Lob oder den Tadel, der ihn treffen könnte.
+...
+Dieser treue Beschützer war Delaporte, besorgt um Herwegh, hatte er uns, ohne daß wir es ahnten, mit 35 Mann Bedeckung aus seinem Bataillon in einiger Entfernung gefolgt.
+
+Referenced Story Points:
+Auguste Delaporte:  Role
+
+Georg Herwegh:  Affiliations & Beliefs
+
+Chapter #36 - On Swiss soil (Hüningen)
+
+Mit Entrüstung wies er das Anerbieten des Offiziers zurück, und den Herrn selbst die Thür, der ihm im Fortgehen noch zurief:
+Hätten wir Herwegh gefangen, so wäre er ohne Verhör füsilirt worden, und die Frau zeitlebens an Ketten gekommen!!!
+Ich will mich hier aller weitern Betrachtungen enthalten, aber wissen möchte ich wol, Wer gesagtem Offizier diese außerordentliche Vollmacht erteilt!
+Uebrigens wiederholten sich dergleichen Vorschläge, Herweg gegen irgend eine bald größere bald kleinere Summe auszuliefern, währen der letzten Tage unseres Aufenthals so häufig, daß unser Wirt selbst ängstlich uns vielleicht nicht genügend Sicherheit bieten zu können, 
+Herwegh riet, diesen Ort zu verlassen, an den uns ohnehin nichts mehr fesselte.
+
+Referenced Story Points:
+Overall:  Catalyst -- Thought
+
+Chapter #37 - Return to France
+
+Herwegh riet, diesen Ort zu verlassen, an den uns ohnehin nichts mehr fesselte.
+Für die Flüchtlinge war nach Kräften gesorgt, - an ein [52] gemeinsames Wirken im Moment war nicht zu denken, 
+und so kehrten wir nach Frankreich zurück. – 
+Mochte dies Exil kein langes sein!
+Hiermit ließe ich meinen Bericht.
+
+Referenced Story Points:
+Overall:  Catalyst -- Thought
+
+Chapter #38 - Closing words
+
+Was man Hecker und Herwegh mit Recht vorwerfen kann, ist zwar nicht „Meuchelmord,“ nicht „Feigheit,“ aber etwas weit Schlimmeres. – 
+Man kann ihnen vorwerfen, daß sie weder getödtet, noch gefangen sind, - 
+daß sie dieser zwiefachen Gefahr glücklich entkommen – konnten ihnen die privilegirten und patentirten Volksvertreter zu Frankfurt, denen  Alles darauf ankommen mußte, solche Männer nicht nur persönlich fern zu halten, sondern auch zugleich unmöglich zu machen, freilich – nicht verzeihen.
+Ihnen blieb kein anderes Mittel übrig, als sie lebendig zu begraben.
+Aber es giebt glücklicherweise noch ein anderes Deutschland, als das zu Frankfurt, ein anderes, als das, welches mit kaltem Blut das Todtenamt für Lebendige hält,
+das zum Henker oder Spiessgesellen an allen nach Freiheit ringenden Völkern geworden ist, und seine besten Kinder im Exil oder in schmählichen Banden hält.
+Es giebt ein junges, demokratisches Deutschland!
+Ein Deutschland, das mit der alten Welt und ihren Sünden abgeschlossen hat, das nicht eher die Waffen niederlegen wird.
+bis Polen, bis Böhmen, bis Italien, bis ganz Europa frei, [56] der letzte Kerker geöffnet, die letzte Kette gesprengt ist.
+Diesem Deutschland allein übergebe ich diese Schrift, denn dies allein hat eine Stätte für jede gute, freie Natur, dies allein ist im Stande, seine wahren Kinder von seinen Stiefkindern zu unterscheiden, und wird das schreiende Unrecht, was jenen geschieht, dereinst zu sühnen wissen.
+So viel Kämpfe ihm auch noch bevorstehen mögen, so viel seiner besten Kinder auch noch als Opfer des Despotismus fallen werden, ehe es Sieger bleibt, - es weiß, daß es später oder früher siegen muss, und kann stolz mit jenem edlen Republikaner, den man hier vor einigen Tagen zu den Galeeren verdammt, ausrufen:
+à moi l’avenir!
+Vive la République démocratique et sociale!
+
+Referenced Story Points:
+Overall:  Response -- Proven
+
+Chapter #39 - Die "Gartenlaube"
+
+Für jetzt zur nöthigen Aufklärung des Leser nur dies: gleich nach Herwegh’s Tod wandte Herr Keil sich an die Wittwe mit dem Ansinnen, einen biographischen Abriß für die „Gartenlaube“ zu schreiben. 
+
+Die Wahrheit wurde geschrieben, und sie paßte natürlich nicht für die „Gartenlaube“. – 
+
+Referenced Story Points:
+Character and Plot Dynamics:  Resolve -- Steadfast
+... obschon ich es nicht verhele, daß es mir ihrer selbst wegen lieb gewesen wäre, wenn Einer oder der Andere sich berufen gefühlt hätte, laut auszusprechen, wovon er innerlich – ich weiß es – unerschütterlich überzeugt geblieben.
+...
+Wenn eine tiefe, unwandelbare Liebe, ein gleiches Wollen und Streben im Denken und Empfinden, ein Leben gemeinsamen Kampfes und der leidenschaftliche Wunsch, einem vielverkannten, wenigerkannten, vielgeliebten Menschen gerecht zu werden, den Mangel jeder schriftstellerischen Begabung ersetzt, ja dieselbe entbehrlich machen könnte, so sollte ich meinen, daß mir mein Vorhaben gelinge müsse. 
+...
+Das Volk wird Dich nie vergessen, nie, ebensowenig wie ich, die diese Zeilen im treuen Andenken an Dich schrieb, in dem unerschütterlichen Glauben, „daß Dein Tag kommen muß!“
+
+Chapter #40 - Truth and Love
+
+Wenn eine tiefe, unwandelbare Liebe, ein gleiches Wollen und Streben im Denken und Empfinden, ein Leben gemeinsamen Kampfes und der leidenschaftliche Wunsch, einem vielverkannten, wenigerkannten, vielgeliebten Menschen gerecht zu werden, den Mangel jeder schriftstellerischen Begabung ersetzt, ja dieselbe entbehrlich machen könnte, so sollte ich meinen, daß mir mein Vorhaben gelinge müsse. 
+
+Referenced Story Points:
+Main Character:  Benchmark -- Innermost Desires
+
+Chapter #41 - All Germany a "Gartenlaube"
+
+„Ganz Deutschland ist eine Gartenlaube!“ „Ganz Deutschland stickt Stramin;“ pflegte unser Dichter oftmals im Scherz zu sagen, wenn sein Blick auf Ihre Zeitschrift fiel. 
+
+Referenced Story Points:
+Impact Character:  Symptom -- Cause
+
+Chapter #42 - Georg Herwegh
+
+Wohl selten ist bei einem Menschen der innere Adel so glücklich und so vollkommen zur Erscheinung gekommen, wie bei ihm. 
+...
+Konnte er, der intime Jugendfreund Ludwig Feuerbach’s, der treue Gefährte Ferdinand Lassalle’s anders denken? – 
+
+Referenced Story Points:
+Georg Herwegh:  Interests
+
+Chapter #43 - Herwegh's work (the idealist)
+
+Jedes Gedicht, das er schrieb, war ein Gesammtbild, ein Stück seines innersten Lebens. 
+...
+Schriftstellerei als Handwerk, als Broderwerb – das Literatenthum par profession waren ihm Gräuel. 
+...
+
+Referenced Story Points:
+Georg Herwegh:  Skills
+
+Chapter #44 - German (corrupt) leaders
+
+Daher seine gründliche Betrachtung der Nationalliberalen, Bismarck’s „Sauhirten“, wie Jener selbst sie oftmals genannt – seine Geringschätzung dieses halben Aufklärichts [sic], ich mein der Altkatholiken. 
+Wohl selten war ihm ein Wort so aus der Seele gesprochen wie das, welches man dem Bischof Kettler Betreff Döllingers nachsagt: „Glaubt er an so viel Wunder, so konnt‘ er auch noch an des Eine glauben“. 
+
+Referenced Story Points:
+Otto von Bismarck:  Interests
+
+Chapter #45 - Herwegh the truthful
+
+Nie habe ich ihn herzlicher lachen hören, als bei Anlaß dieses Zitates. Nationalliberale und Altkatholiken waren [5] in seinen Augen nichts Anderes, als eine andere und gefährlichere Art von Gründern, eine Art politischer und religiöser Phyloxera,*) gegen die bis jetzt leider noch kein Vertilgunsmittel gefunden ist.
+Konnte er, der intime Jugendfreund Ludwig Feuerbach’s, der treue Gefährte Ferdinand Lassalle’s anders denken? – 
+Alles was einem Kompromiß ähnlich sah, war ihm unmöglich, und hätte man ihm die Wahl gestellt, mit Wem er umgehen wolle, und er hätte sich für den Einen oder Anderen entscheiden müssen, ob mit einem Vollblutaristokraten oder mit einem Nationalliberalen, mit einem frisch, fromm fröhlichen Ultramontanen oder einem dieser tiefsinnigen Flachköpfe der Döllingerpartei, er hätte sich für die Ersteren entschieden, als seine ehrlichen, off’nen Feinde.
+Die Freiheit war für ihn das höchste, unveräußerliche Gut und Recht des Menschen, weil sie über jeder Nationalität, außerhalb aller geographischen Grenzen steht und durch keine Gewalt annexirt werden kann. 
+
+Referenced Story Points:
+Georg Herwegh:  Affiliations & Beliefs
+
+Chapter #46 - 1861 Zürich
+
+Es war im Jahr 1861, wir lebten damals in Zürich, als ein früher Professor der italienischen Literatur am dortigen Polythechnikum, Herr de Sanctis, damals italienischer Unterrichtsminister, ganz unerwartet per Telegramm an Georg Herwegh die Frage richtet, ob er den Lehrstuhl als Professor der vergleichenden Literatur in Neapel annehmen wollte? 
+
+Referenced Story Points:
+Character and Plot Dynamics:  Driver -- Action
+Eben ist auf der Kehler Brücke ein Mann arretirt worden, der mir im Augenblick, wo er mich sah und man ihn fortschleppte, noch mit lauter Stimme zurief:
+Sagt Herwegh, daß er schnell mit den Deutschen kommen soll, Hecker steht bereits vor Freiburg und erwartet ihn.“
+Sie sehen, meine Herren, wir haben keine Zeit zu verlieren.
+
+Chapter #47 - Herwegh's studies
+
+Von dieser Stunde an studirte unser Dichter mit unglaublichem Eifer Tag und Nacht die italienische Sprache, deren Literatur ihm bekannt war wie Wenigen. 
+Eine seiner Eigenthümlichkeiten bestand ohnehin darin, daß er sich in das Lesen eines Wörterbuchs vertiefen konnte, wie Andere in die Lectüre eines Romans. 
+
+Referenced Story Points:
+Georg Herwegh:  Background
+
+Main vs. Impact:  Symptom -- Unproven
+
+Plot Information:  Consequence -- Doing
+
+Chapter #48 - Promiss of a chair at the university of Naples
+
+Ein Freund von uns, Professor Moleschotte, der damals eine von ihm nachgesuchte Stelle als Professor der Physiologie [6] in Turin antreten sollte, verliß uns, mich dünkt es war Anfang November, mit den Worten: Auf baldiges Wiedersehen in Italien! 
+Aber Monat auf Monat verging, ohne daß vereißene Dektret kam – 
+da plötzlich wurde das Ministerium gestürzt, an die Stelle des bisherigen Unterrichtsministers de Sanctis, trat der bekannte Mattiucci, ein fanatischer Anhänger Napoleons III. wie seine sämmtlichen Collegen, und als wir uns acht Tage vor Ostern, der zum Antritt des Lehrstuhls bestimmten Zeit, auf die Reise nach Neapel begeben wollten,
+...
+„Du siehst,“ sagte er mir damals, „daß ich dazu geboren bin, keine Anstellung zu haben.“ Ich selbst melde Ihnen diesen Vorgang nur, weil Sie Einiges aus dem Privatleben unserer Dichters zu wissen wünschen.
+Jetzt zu etwas Wichtigerem. Sie fragen mich ihn Ihrem Briefe, wie sich Georg Herwegh zum Kriege von 1866, wie er sich dem unglückseligen Kampfe von 1870 verhalten? Ich werde Ihnen darauf um so besser und erschöpfender antworten können, als ich es mit seinen eigenen Worten kann:
+
+ 
+
+Referenced Story Points:
+Overall:  Symptom -- Unproven
+
+Chapter #49 - 1866-70 Shakespear translation
+
+Die Jahre 66-70 füllen außer den vielseitigsten naturwissenschaftlichen und Sprach-Studien auch die verschiedenen Shakespeare-Uebertragungen aus, von denen sieben in der Bodenstedt’schen Sammlung treu und unentstellt, sie der Dichter geschrieben, erschienen sind, und vor diesen in dem Reimer’schen Verlag der „Coriolan“.
+...
+[9] Der Herr Professor hatte sich nicht begnügt, die ursprünglich herrliche concise Einleitung durch sein gelehrtes, weitschweifiges „Drum und Dran“ förmlich unter Wasser zu stellen, 
+nein, er hatte sich sogar an eine eigenmächtige Umänderung des Textes gemacht, 
+so daß ich, der vom Abschreiben viele Seiten dieser großartigen Arbeit, wegen der Schönheit und Vollendung der Form noch Wort für Wort im Gedächtnis geblieben waren, und die das, wenngleich ziemlich unleserlich gewordene Manuskript zur Vergleichung noch besaß, buchstäblich durch diesen Vandalismus wie vom Schlage gerührt blieb, denn keine Seite war unverfälscht und verballhornt geblieben. 
+Ich war darüber so unglücklich, daß ich den Dichter flehentlich bat, doch eine öffentliche Erklärung abzugeben, weil es doch hier ja um kein Vergehen gegen die Privatperson, sondern um eines gegen den heiligen Geist, gegen den Poeten handle. 
+„Laß es gehen!“ antwortete er mir; „cela ne vaut pas la peine.“*)
+Ich macht mir darauf das schmerzliche Vergnügen, eines der Exemplare in seiner urprünglichen Form wieder herzustellen – aber nützt es? 
+
+ 
+
+Referenced Story Points:
+Georg Herwegh:  Function
+
+Chapter #50 - The Herweghs in Baden
+
+Im Jahre 1870 lebten wir schon seit vier Jahren hier in Baden. Dieses Jahr zählt für viele im Leben Georg Herweg’s!
+Sie fragen, wie er sich zu diesem welterschütternden Ereigniß verhielt? 
+Er soll Ihnen selbst antworten. Von Sedan an schämte er sich ein Deutscher zu sein, denn er besaß jenen allerdings selten gewordenen Patriotismus, der über die Fehler des eigenen Volkes erröthet, weil er sich mit dafür verantwortlich fühlt, der das am französischen Volke durch die Annexion begangene Unrecht wie eine persönliche Schuld mit empfand, und nicht die wohlfeile Vaterlandsliebe. 
+
+Referenced Story Points:
+Character and Plot Dynamics:  Judgment -- Good
+Sein ganzes früheres Leben war ihnen der schlagende Beweis, für die Niederträchtigkeit seiner Ankläger, 
+
+Character and Plot Dynamics:  Nature -- Actual Work
+
+Chapter #51 - Forecast on Herwegh's death (pureness)
+
+Ich hätte diesem Gedicht kaum noch Etwas hinzuzufügen, wenn ich nicht noch mit ein paar Worten der letzten Wünsche Georg Herwegh’s als Ergänzung zu dieser kleinen Lebensskizze Erwähnung thun wollte.
+„Sollte ich, wie ich es wünsche und glaube, vor dir sterben, so versprich mir – 
+dies waren seine Worte – 
+daß kein geistlicher mit meiner Leiche geht, denn dies wäre eine Lüge, ein Hohn, meinem ganzen Leben gegenüber – versprich mir aber auch, 
+daß man mich nicht innerhalb des deutschen Reiches bestattet, laß mir in freier republikanischer Erde begraben, in unserm Heimathskanton.“ – 
+
+Referenced Story Points:
+Plot Information:  Preconditions -- The Future
+
+Chapter #52 - Preussen the mortal enemy of freedom
+
+Er sah in dem heutigen Preußen – 
+ich spreche von dem offiziösen, nicht vom Volke, denn das ist überall gleich tapfer, gleich opferfähig, gleich leichtgläubig, gleich blind bereit, sich zur Schlachtbank führen zu lassen – 
+er sah in ihm den todfeind aller Freiheit, 
+...
+
+Referenced Story Points:
+Plot Information:  Costs -- How Things are Changing
+
+Chapter #53 - Herwegh's voluntary poverty
+
+denn das würde ihn noch unter der Erde beglücken. Und wissen Sie, geehrter Herr, welches meines Erachtens das schönste Vermächtniß ist, das Georg Herwegh seiner Frau und seinen Kindern außer seinem reinen, großen Namen gelassen? 
+Das ist seine freiwillige Armuth, die durch die kleinste Concession seinerseits sich so leicht in Reichtum hätte verwandeln können, das ist das Bewußtsein, 
+der einzige lebende deutsche Dichter gewesen zu sein, 
+der inmitten des allgemeinen Siegesrausches nüchtern geblieben, der das Herz gehabt hat, nicht zu vergessen, was er, was wir Alle diesem „verkommenen Volk der Franzosen“ verdanken, 
+der in der Annexion von Elsas und Lothringen kein Heil, sondern ein Verbrechen gegen das Menschenrecht gesehen 
+und den Muth gehabt hat, seine Stimme der Besiegten zu erheben. 
+Seit der Annexion von Elsaß und Lothringen hätte ihn, der so nah von Straßburg lebte, Nichts dazu bewegen können, diese Stadt als [12] Deutscher zu besuchen. 
+Und hier das Gedicht, in dem er dieser Empfindung über die Annexion Ausdruck geliehen:
+
+Referenced Story Points:
+Character and Plot Dynamics:  Outcome -- Success
+Für die sogenannten Freunde, zu denen ich alle Diejenigen rechne, die wenn auch leicht zu überreden, Herwegh dennoch lieber in der öffentlichen Meinung steigen als fallen sähne, weil sie mehr schwach als schlecht, mehr beschränkt als boshaft, hätte auch ein weniger detaillirter Bericht genügt, 
+damit war meine Aufgabe aber noch keineswegs gelöst. – 
+Ich konnte mich erst dann zufrieden stellen, wenn es mir gelungen war, dieser würdigen Schaar liberaler und conservativer freiwilliger und bezahlter Schurken, die sich an jede reine, edle Natur wie Vampyre beharrlich festklammern bis sie ihr den letzten Lebenstrophen ausgesogen – ihr Opfer lebendig und unversehrt zu entreißen.
+Hierzu bedurfte es nur einer einfachen, treuen Erzählung des Erlebten, und die bis in die kleinsten Details geben zu können, war Niemand befähigter als ich;
+die Herwegh vom Anfang bis zum Schluß der Expedition keinen Augenblick aus den Augen berloren und Zeuge jedes Wortes gewesen war, das er gesprochen hatte.
+Sehr möglich, daß die Aussage dieses oder jenes Gefangenen [53] in einzelnen Punkten von der meinigen abweichen wird.
+Nicht jeder Mensch kann wahr sein.
+...
+Die Wahrheit wurde geschrieben, und sie paßte natürlich nicht für die „Gartenlaube“. – 
+

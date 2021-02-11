@@ -1,0 +1,95 @@
+STORY ENGINE SETTINGS:  "Your Story"
+
+CHARACTER DYNAMICS:
+MC RESOLVE:  Change
+MC GROWTH:   Start
+MC APPROACH:  Do-er
+MC PROBLEM-SOLVING STYLE:  Logical
+IC RESOLVE:  Steadfast
+
+PLOT DYNAMICS:
+DRIVER:  Decision
+LIMIT:  Optionlock
+OUTCOME:  Failure
+JUDGMENT:  Good
+
+MAIN CHARACTER
+(Constantin Siegwart-Müller)
+THROUGHLINE:  Situation
+CONCERN:  How Things are Changing
+ISSUE:  Threat vs. Security
+PROBLEM:  Expectation
+SOLUTION:  Determination
+SYMPTOM:  Hunch
+RESPONSE:  Theory
+UNIQUE ABILITY:  Fantasy
+CRITICAL FLAW:  Value
+BENCHMARK:  The Future
+SIGNPOST 1:  The Present
+SIGNPOST 2:  How Things are Changing
+SIGNPOST 3:  The Past
+SIGNPOST 4:  The Future
+
+OVERALL STORY
+(The Overall Story)
+THROUGHLINE:  Manipulation
+CONCERN:  Playing a Role
+ISSUE:  Desire vs. Ability
+PROBLEM:  Expectation
+SOLUTION:  Determination
+SYMPTOM:  Test
+RESPONSE:  Trust
+CATALYST:  Thought
+INHIBITOR:  Wisdom
+BENCHMARK:  Changing One's Nature
+SIGNPOST 1:  Changing One's Nature
+SIGNPOST 2:  Conceiving an Idea
+SIGNPOST 3:  Developing a Plan
+SIGNPOST 4:  Playing a Role
+
+MAIN VS. IMPACT STORY
+(The Main vs. Impact Story)
+THROUGHLINE:  Activity
+CONCERN:  Doing
+ISSUE:  Experience vs. Skill
+PROBLEM:  Expectation
+SOLUTION:  Determination
+SYMPTOM:  Non-Accurate
+RESPONSE:  Accurate
+CATALYST:  Enlightenment
+INHIBITOR:  Knowledge
+BENCHMARK:  Obtaining
+SIGNPOST 1:  Understanding
+SIGNPOST 2:  Doing
+SIGNPOST 3:  Obtaining
+SIGNPOST 4:  Gathering Information
+
+IMPACT CHARACTER
+(Ulrich Ochsenbein)
+THROUGHLINE:  Fixed Attitude
+CONCERN:  Impulsive Responses
+ISSUE:  Worry vs. Confidence
+PROBLEM:  Theory
+SOLUTION:  Hunch
+SYMPTOM:  Test
+RESPONSE:  Trust
+UNIQUE ABILITY:  Worth
+CRITICAL FLAW:  Fact
+BENCHMARK:  Innermost Desires
+SIGNPOST 1:  Contemplation
+SIGNPOST 2:  Memories
+SIGNPOST 3:  Innermost Desires
+SIGNPOST 4:  Impulsive Responses
+
+ADDITIONAL STORY POINTS
+
+GOAL:  Playing a Role
+CONSEQUENCE:  Doing
+COST:  Impulsive Responses
+DIVIDEND:  How Things are Changing
+
+REQUIREMENT:  Changing One's Nature
+PREREQUISITE:  Obtaining
+PRECONDITION:  Innermost Desires
+FOREWARNINGS:  The Future
+

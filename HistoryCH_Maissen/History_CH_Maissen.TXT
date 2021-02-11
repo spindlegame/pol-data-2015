@@ -1,0 +1,253 @@
+Plot Dynamics Report for "Your Story"
+
+In terms of plot dynamics, "Your Story" is a story driven by Decision.  This does not necessarily mean that the focus of the plot is about Decisions occurring, but rather that the plot is driven forward by Decisions.  In other words, when Decisions are made it forces the Overall characters to respond and ultimately take action.  In "Your Story," these actions would never be taken if Decisions had not been made.  So, in short, it is a causal relationship that exists: Decisions force actions.
+
+In "Your Story," the plot reaches a climax because the Overall characters run out of options.  This is called an Optionlock, which means that the tension of the plot is not created by a ticking clock but the closing down of options.  When all the options are gone, the climax (or moment of truth) is reached.
+
+What happens at that moment of truth?  Do the Overall characters achieve what they set out to achieve?  In "Your Story," the efforts of the Overall characters ultimately result in Success.  Of course, there are characters both for and against the effort to achieve the goal, and the audience might be rooting for either side.  Therefore it is important to realize that Success does not necessarily mean the audience will be pleased with the outcome.  In fact, if the goal is seen as a negative thing, the audience might very well be rooting for failure.  Still, since the goal is achieved in "Your Story," the efforts of those for the goal meet with Success.
+
+But what about main character's personal problems?  Once Success has been achieved, is the main character satisfied as well?  In "Your Story," plot dynamics indicate that not only does the effort to achieve the goal meets with Success, but this is favorable in context of the main character and therefore seen as Good.
+
+In summary, the plot dynamics of "Your Story" indicate that the plot is driven by Decisions which force actions to be made.  This drive forces the plot to a climax when all Options have been exhausted.  In the end, the efforts to achieve the goal meet with Success, which is seen as a Good outcome in terms of the main character's problems.
+
+Plot Sequence Report for "Your Story"
+
+This report shows how dramatic tension makes itself manifest in a series of discrepancies between plot and theme, act by act.
+
+Information about the relationship between plot and theme comes in two forms in Dramatica.  When you begin creating your Storyform, you are presented with a "perfect world" view of your story in which plot is completely aligned with theme.  There is no discrepancy between the two, and therefore no dramatic tension.  This balanced view is most easily seen in the Theme Browser, available through a tile on the Dramatica Desktop.
+
+Once you arrive at a Storyform, however, you have input information about how that "perfect world" is twisted and warped by problems and conflicting perspectives.  As a result, plot no longer matches theme, and the two are often quite out of step with one another.
+
+As your story unfolds, it is the discrepancy between plot and theme that clues the audience in on the nature of the problem at the heart of your story and tells them much about the ways in which such a screwed up situation might be resolved.
+
+Use this report as a guideline to the kinds of thematic considerations which should be addressed in your plot, act by act for each of the four throughlines.  By developing this series of plot/theme discrepancies, the progress of your story will reflect the dramatic tension of the effort to unwind all the tentacles of the central problem.
+
+
+THE OVERALL STORYLINE
+
+The Overall Storyline deals with the kinds of activities the Overall characters will be engaged in, act by act.  In "Your Story," act one deals primarily with Doing, act two with Obtaining, act three with Gathering Information and act four concentrates on Understanding.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "engaging in a physical activity" (Doing) is explored in terms of Investigation, Appraisal, Reappraisal, and Doubt.  Act two concentrates on "achieving or possessing something" (Obtaining) and is explored in terms of Closure, Hope, Dream, and Denial.  Act three focuses on "gathering information or experience" (Gathering Information) and is explored in terms of Worth, Confidence, Worry, and Value.  And act four illustrates "appreciating the meaning of something" (Understanding) and is explored in terms of Truth, Evidence, Suspicion, and Falsehood.
+
+
+_________________________
+
+THE MAIN VS. IMPACT STORYLINE
+
+The Main vs. Impact Storyline deals with the interactions that occur between the main and impact characters, act by act.  In "Your Story," act one deals primarily with Developing a Plan, act two with Playing a Role, act three with Changing One's Nature and act four concentrates on Conceiving an Idea.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "visualizing how an existing idea might be implemented" (Developing a Plan) is explored in terms of Wisdom, Skill, Experience, and Enlightenment.  Act two concentrates on "temporarily adopting a lifestyle" (Playing a Role) and is explored in terms of Self Interest, Morality, Attitude, and Approach.  Act three focuses on "transforming one's nature" (Changing One's Nature) and is explored in terms of Prerequisites, Strategy, Analysis, and Preconditions.  And act four illustrates "coming up with an idea" (Conceiving an Idea) and is explored in terms of Instinct, Senses, Interpretation, and Conditioning.
+
+
+_________________________
+
+THE MAIN CHARACTER THROUGHLINE
+
+The Main Character Storyline deals with the areas that most concern the main character, act by act.  In "Your Story," act one deals primarily with Memories, act two with Impulsive Responses, act three with Innermost Desires and act four concentrates on Contemplation.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "recollections" (Memories) is explored in terms of Fate, Prediction, Interdiction, and Destiny.  Act two concentrates on "innate responses" (Impulsive Responses) and is explored in terms of Fact, Security, Threat, and Fantasy.  Act three focuses on "basic drives and desires" (Innermost Desires) and is explored in terms of Openness, Delay, Choice, and Preconception.  And act four illustrates "present considerations" (Contemplation) and is explored in terms of Work, Attraction, Repulsion, and Attempt.
+
+
+_________________________
+
+THE IMPACT CHARACTER THROUGHLINE
+
+The Overall Character Storyline deals with the areas most affected by the impact character, act by act.  In "Your Story," act one deals primarily with The Present, act two with How Things are Changing, act three with The Future and act four concentrates on The Past.  Each of these acts is made richer by the thematic topics that are explored within it.  In act one, "the current situation and circumstances" (The Present) is explored in terms of Knowledge, Ability, Desire, and Thought.  Act two concentrates on "the way things are going" (How Things are Changing) and is explored in terms of Rationalization, Commitment, Responsibility, and Obligation.  Act three focuses on "what will happen or what will be" (The Future) and is explored in terms of Permission, Need, Expediency, and Deficiency.  And act four illustrates "what has already happened" (The Past) and is explored in terms of State of Being, Situation, Circumstances, and Sense of Self.
+
+Overall Story Plot Report
+
+
+Story Points for "Your Story"
+
+In "Your Story," the Goal is Obtaining.  Some of the Overall characters are for the Goal, while others are against it.  Regardless, before Obtaining can be achieved, certain Requirements must be met.  These Requirements all involve Gathering Information in one way or another.  As a result, although the Overall characters are all concerned with Obtaining they spend most of their time concentrating on Gathering Information as the means of achieving it or the best place to prevent it, depending upon their point of view.
+
+Just as the Goal depends upon Requirements, Requirements depend up Prerequisites.  In "Your Story," these Prerequisites all have to do with Conceiving an Idea.  In other words, only though progress in Conceiving an Idea will Requirements of Gathering Information be met, clearing the way toward Obtaining.
+
+What if the Goal is not achieved?  The alternative is the Consequence.  The Consequence may appear to be positive or negative, depending upon which side of the Goal one is on.  In "Your Story," this Consequence involves Changing One's Nature.  Something to do with Changing One's Nature then will happen if a Goal regarding Obtaining is not achieved.
+
+The audience can judge progress toward the Goal by the number of Requirements that are met.  Indications that the Consequence is becoming more imminent is provided by Forewarnings.  In "Your Story," changes in Contemplation act as indicators that the Consequence is drawing near.
+
+Just as Prerequisites provide the groundwork necessary to meet the Requirements, Preconditions set the stage for the advent of Forewarnings.  So, in "Your Story," Forewarnings in the form of Contemplation are preceded by Preconditions of The Present.  A sure way to tell a Prerequisite from a Precondition is that Prerequisites are an essential part of the effort toward the Goal, while Preconditions are only made essential due to someone's insistence that the conditions be met.
+
+While all this effort is going on, certain Costs are incurred and Dividends accrued that make the effort all that more draining or rewarding.  In "Your Story," Costs involve The Future, while Dividends are found in Innermost Desires.
+
+In summary, "Your Story" concerns a Goal regarding Obtaining, which Requires progress to be made in Gathering Information.  If the Goal is not achieved, a Consequence regarding Changing One's Nature will transpire.  The imminent approach of the Consequence is gauged by instances or degrees of Contemplation, which come when Preconditions of The Present exist.  The Present is not intrinsically essential to progress toward the goal (essential Prerequisites pertain to Conceiving an Idea) but are made essential by someone's insistence.  As a result of these efforts, Costs involving The Future are incurred, while Dividends are found in Innermost Desires.
+
+Four Througlines Themes Report
+
+Overall Story Thematic Report for "Your Story"
+
+The Overall Story of "Your Story" takes place in the Activity Throughline, indicating that the problem exists because there is something wrong with an activity or endeavor.  Additionally, the Overall characters are primarily Concerned with Obtaining.  So, putting it together, the Overall characters are concerned with an activity or endeavor pertaining to Obtaining.  Some of the Overall characters respond to Obtaining with Morality while others respond with Self Interest.  Since this is part of the rational argument, an author can examine the relative practicality of responding to Obtaining with Morality or Self Interest by illustrating their effects on Attitude and Approach.  
+
+Just because characters happen to find themselves on the same side because they share a particular approach does not mean they can agree on the essential nature of the problem or the best solution.  In "Your Story," some see Faith as causing the problem and Disbelief as the means to resolve it.  Others are convinced that Temptation is at the heart of the problem and Conscience will best solve it.
+
+These two areas of disagreement (Morality vs. Self Interest as an approach with Disbelief or Conscience as the solution) form four perspectives that conflict with each other over the course of the story.  Because they are so balanced, they tend to lock up like wrestlers and bring the plot to a halt.  Fortunately, like a referee, there is a Catalyst that moves in to break it up.  In "Your Story," Approach is the Catalyst that gets things moving again.  However, once moving, the plot tends to pick up too much speed, as if the accelerator pedal were stuck to the floor.  Once again, a force comes into play to regulate the speed.  In "Your Story" this Inhibitor is Obligation.  Any other means of arbitrating the speed of the plot might seem arbitrary.  However, because of their relationship to Obtaining, Approach and Obligation provide an author with unobtrusive tools to adjust the pacing of the story's progress.
+
+Speed is one thing; distance to the destination is another.  That's where the Overall Story Benchmark comes into play.  The Benchmark serves as a yardstick providing milestones that tell an audience how far it is to the climax.  In "Your Story," distance to the goal is measured by changes in Gathering Information.
+
+In summary, the Overall problem in "Your Story" resides in an activity or endeavor pertaining to Obtaining.  Although the Overall characters share a Concern about Obtaining, they differ in approach:  some responding with Morality and others with Self Interest.  The relative value of the two approaches becomes evident in the conflicts that occur between Morality and Self Interest.  The relative practicality of both approaches is seen by how they each affect Attitude and Approach.  In addition, the Overall characters disagree on the true cause of the problem, and therefore on the appropriate solution.  While some see Faith as the problem and Disbelief the best solution, others find Temptation at the heart of the problem and Conscience the best way to resolve it.  These perspectives come into conflicts that are moved forward by Approach, and held back by Obligation, while the distance to the goal is measured by changes in Gathering Information.  
+______________________________
+Overall Story Illustrations for Your Story.
+
+
+
+"Activity" as the Overall Story Throughline:  
+
+"Obtaining" as the Overall Story Concern:  
+
+"Morality" as the Overall Story Issue:  
+
+"Faith" as the Overall Story Problem:  
+
+"Disbelief" as the Overall Story Solution:  
+
+"Temptation" as the Overall Story Symptom:  
+
+"Conscience" as the Overall Story Response:  
+
+"Approach" as the Overall Story Catalyst:  
+
+"Obligation" as the Overall Story Inhibitor:  
+
+"Gathering Information" as the Overall Story Benchmark:  
+
+
+
+Additional Overall Story Illustrations for Your Story.
+
+
+
+"Obtaining" as the Overall Story Goal:  
+
+"Changing One's Nature" as the Overall Story Consequence:  
+
+"The Future" as the Overall Story Cost:  
+
+"Innermost Desires" as the Overall Story Dividend:  
+
+"Gathering Information" as the Overall Story Requirement:  
+
+"Conceiving an Idea" as the Overall Story Prerequisite:  
+
+"The Present" as the Overall Story Preconditions:  
+
+"Contemplation" as the Overall Story Forewarnings:  
+
+
+
+Main vs. Impact Story Thematic Report for "Your Story"
+
+The Main vs. Impact Story theme places value judgments on the relationship between the Main and Impact Characters.  In the relationship between Jonas Furrer and Constantin Siegwart-Müller (180, these value judgments center on Responsibility.  The Main vs. Impact Story Counterpoint provides an alternative standard of values in contrast to the thematic focus.  In "Your Story," this alternative value standard examines Commitment.  Conflicts occur between Jonas Furrer and Constantin Siegwart-Müller (180 in regards to the relative value of Responsibility vs. Commitment.  It is the passionate argument that presents the emotional case for the author's point of view.  In fact, this bias forms the heart of the thematic exploration.  In "Your Story" the author's views can be explored in terms of Responsibility vs. Commitment.  Although Responsibility and Commitment describe both sides of the thematic argument, as author, you will need to take one side over the other in order to make a thematic statement in the passionate argument.  In "Your Story," your point of view can be expressed by examining both Responsibility and Commitment in terms of the contrast in obligations and rationalizations between Jonas Furrer and Constantin Siegwart-Müller (180.
+
+For most of the story, Jonas Furrer and Constantin Siegwart-Müller (180 may spend a good deal of their time focusing on tempting.  Although they will both agree that tempting is the primary area of friction between them, one will argue that tempting is the way to resolve their personal problems, while the other will argue that appealling to conscience is the way to go.
+
+Having taken up sides on all of these issues, Jonas Furrer and Constantin Siegwart-Müller (180 would simply sit on their own positions and the passionate argument of "Your Story" would be reduced to a shouting match in which no progress is made toward a resolution.  However, there is another thematic aspect to the story that breaks the log jam and keeps the plot moving along.  In "Your Story" this Catalyst is Rationalization.  Any other way of moving the plot along might seem artificial, however every time Rationalization gets things moving, it somehow seems appropriate, due to the relationship between Responsibility and Rationalization.
+
+In contrast, if the plot moved forward without any resistance, the story would end before all sides of all issues could be explored.  That's why in "Your Story" Attitude serves to inhibit progress toward a solution.  It is the balance between Rationalization and Attitude that determines how quickly the passionate argument will move forward.  In fact, in working with this story you can increase the pace toward the climax by adding in more Rationalization (or strengthening its presence) or slow down the story to linger at points of special interest by adding more Attitude.  Even more variety can be achieved by lowering the presence of Rationalization or Attitude to make the story move slower or faster, respectively.
+
+Putting the items in place that will change the pace of a story makes an audience feel they are rushing, crawling or any speed in between on the way to the climax of the story.  In the Main vs. Impact Story, this climax is reached when the relationship between the Main and Impact characters grows to its maximum dimensions.  In "Your Story" the growth between Jonas Furrer and Constantin Siegwart-Müller (180 is measured in terms of Conceiving an Idea.  What is conceived, then, becomes the thematic yardstick that clues the audience in as to the distance to the climax of the passionate argument.
+
+In summary, the Main vs. Impact Storyline of "Your Story" involves a divergence between Jonas Furrer and Constantin Siegwart-Müller (180 in terms of Responsibility vs. Commitment.  The author takes sides by examining their obligations and rationalizations.  Still, Jonas Furrer and Constantin Siegwart-Müller (180 spend most of their time focusing on tempting.  The passionate argument is moved forward by Rationalization, held back by Attitude, and the audience can measure progress toward the climax in terms of what is conceived.  
+______________________________
+
+Main vs. Impact Story Illustrations for Your Story.
+
+
+
+"Manipulation" as the Main vs. Impact Story Throughline:  
+
+"Changing One's Nature" as the Main vs. Impact Story Concern:  
+
+"Responsibility" as the Main vs. Impact Story Issue:  
+
+"Control" as the Main vs. Impact Story Problem:  
+
+"Uncontrolled" as the Main vs. Impact Story Solution:  
+
+"Temptation" as the Main vs. Impact Story Symptom:  
+
+"Conscience" as the Main vs. Impact Story Response:  
+
+"Rationalization" as the Main vs. Impact Story Catalyst:  
+
+"Attitude" as the Main vs. Impact Story Inhibitor:  
+
+"Conceiving an Idea" as the Main vs. Impact Story Benchmark:  
+
+
+
+Main Character Story Thematic Report for "Your Story"
+
+In "Your Story," Jonas Furrer's Throughline is a fixed attitude or outlook.  In fact, Jonas Furrer's Concerns revolve around a fixed attitude or outlook of Innermost Desires.  This is not necessarily Jonas Furrer's goal (although it could be) but is better thought of as his primary Concern.  
+
+Jonas Furrer proves to be sensitive to issues pertaining to Dream, especially in reference to Innermost Desires.  In fact, when it comes to Innermost Desires, Jonas Furrer often notices a disparity between Dream and Hope that others just don't see.  The audience, therefore, is provided a very personal commentary on the meaning of Innermost Desires through Jonas Furrer's perspective.
+
+As the story develops we learn that Jonas Furrer's motivation comes from an imbalance between Faith and Disbelief.  Specifically, what pulls Jonas Furrer forward through the story is a deficiency of Faith.
+
+Unfortunately, Jonas Furrer's lack of Faith is what gets him into trouble.  In fact, this imbalance causes trouble for everyone else as well.  Only if Jonas Furrer comes to realize that it is his own deficiency of Faith that is causing all the problems will he be able to set things right.  The question is, will he see this before his options run out?
+
+What holds Jonas Furrer back is that his focus is elsewhere.  Jonas Furrer doesn't see the problem to be in himself.  Rather, he believes the problem to be Oppose and sees Support as the solution.  As a result, Jonas Furrer might never come to understand that he holds the key to solving the problem unless he is forced by circumstance to address the issue.
+
+Although Jonas Furrer is also interested in working toward the goal regarding Obtaining that everyone seems concerned with, he finds himself indispensable on the quest because of his Abilities in the area of Closure.  Actually, Jonas Furrer is Uniquely Able in this area, which is why he cannot resist participating in the quest where he begins to see that he holds the means to resolving the story's problems.
+
+Jonas Furrer's Unique Ability of Closure can move the story toward a positive conclusion.  However, his use of Closure is undermined by an aspect of Preconception which always seems to get in the way.  This resistance to his effectiveness varies as Jonas Furrer grows over the course of the story.  It becomes clear that when Jonas Furrer can overcome his Preconception and effectively rely on Closure, he may be able to address the fact that he has the power to resolve the story's problems.  This tug of war between Closure and Preconception causes both growth and backsliding in Jonas Furrer, as evidenced by his varying degree of Contemplation.
+
+In summary, a fixed attitude or outlook is the realm in which Jonas Furrer primarily operates, especially in regard to Innermost Desires, which is his chief Concern.  As an individual, Jonas Furrer is focused on issues involving Dream more than most, which makes him responsive to issues regarding Hope.  He often perceives a disparity between Dream and Hope.  Jonas Furrer is driven by a deficiency of Faith, which causes him to see Oppose as the source of his problems and Support as the best solution.  In fact, Jonas Furrer's own lack of Faith is what prevents the story's problem from being resolved.  Jonas Furrer is given the opportunity to see this as he becomes wholly involved in the effort to achieve the goal.  It is Jonas Furrer's Unique Ability pertaining to Closure that holds the means to resolving the story's problem.  Unfortunately, his effectiveness is undermined by an aspect of Preconception.  Over the course of the story Jonas Furrer's growth (and backsliding) in effectiveness can be seen in the degree to which he engages in Contemplation.
+______________________________
+
+Main Character Illustrations for Your Story.
+
+
+
+"Fixed Attitude" as the Main Character Throughline:  
+
+"Innermost Desires" as the Main Character Concern:  
+
+"Dream" as the Main Character Issue:  
+
+"Faith" as the Main Character Problem:  
+
+"Disbelief" as the Main Character Solution:  
+
+"Oppose" as the Main Character Symptom:  
+
+"Support" as the Main Character Response:  
+
+"Closure" as the Main Character Unique Ability:  
+
+"Preconception" as the Main Character Critical Flaw:  
+
+"Contemplation" as the Main Character Benchmark:  
+
+
+
+Impact Character Story Thematic Report for "Your Story"
+
+In "Your Story," Constantin Siegwart-Müller (180 is the impact character, meaning that we see Constantin Siegwart-Müller (180 as the primary influence on Jonas Furrer's personal fulfillment.  In fact, Jonas Furrer is on the wrong path, and Constantin Siegwart-Müller (180 pressures him to take a better approach.  As a Situation character, Constantin Siegwart-Müller (180 works by changing the situation.  
+
+With regard to that "situation", Constantin Siegwart-Müller (180 is primarily Concerned with The Future, especially in terms of Choice.  In fact, it is the discrepancy between Choice and Delay that is most exemplified by Constantin Siegwart-Müller (180.  Driving a wedge between these two items is the source of his drive, which is Logic.  In other words, changes in his logic over the course of the story create direct responses in the level of Constantin Siegwart-Müller (180's satisfaction.  Only if Feeling replaced Logic would Constantin Siegwart-Müller (180 be satisfied.
+
+Constantin Siegwart-Müller (180 is uniquely able to pursue this course as a result of his association with Openness.  At least, he would be able to if Denial didn't always get in his way.  The frustrations Constantin Siegwart-Müller (180 feels when he is held back only serve to increase the extent of his Concern with The Future.  
+
+In summary, Constantin Siegwart-Müller (180's primary Concern is a situation or environment regarding The Future.  More specifically, he impacts the balance between Choice and Delay.  His primary influence is focused on Choice As a result, issues regarding Delay arise.  As Constantin Siegwart-Müller (180's impact grows, it tips the balance between Choice and Delay in the eyes of the other characters..  Affecting his impact are his drive regarding Logic and his satisfaction with Feeling.  Aided in this effort by his unique abilities in the area of Openness, he is held back by an aspect of Denial.
+______________________________
+Impact Character Illustrations for Your Story.
+
+
+
+"Situation" as the Impact Character Throughline:  
+
+"The Future" as the Impact Character Concern:  
+
+"Choice" as the Impact Character Issue:  
+
+"Logic" as the Impact Character Problem:  
+
+"Feeling" as the Impact Character Solution:  
+
+"Temptation" as the Impact Character Symptom:  
+
+"Conscience" as the Impact Character Response:  
+
+"Openness" as the Impact Character Unique Ability:  
+
+"Denial" as the Impact Character Critical Flaw:  
+
+"The Present" as the Impact Character Benchmark:  
+
+
+
